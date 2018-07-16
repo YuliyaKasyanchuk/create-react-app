@@ -2,7 +2,7 @@
   "name": "form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yuliyakasyanchuk.github.io/create-react-app",
+  "homepage": "https://yuliyakasyanchuk.github.io/create-react-app/",
   "dependencies": {
     "node-sass-chokidar": "^1.3.0",
     "react": "^16.4.1",
